@@ -4,7 +4,7 @@ let dvd, r, g, b;
 
 
 function preload(){
-  dvd = loadImage("img/cacaop21.png");
+  dvd = loadImage("docs/img/cacaop21.png");
 }
 
 function pickColor() {
